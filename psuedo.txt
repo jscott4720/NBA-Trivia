@@ -1,0 +1,40 @@
+Ideas for Trivia game
+
+Three levels, Easy, Medium, Hard
+
+10 Questions per level
+
+1 HTML/JavaScript per page(reference DOTS lab)
+
+1 HTML page for Directions  
+
+Insert intro when website is first opened?
+(Michael Jordan style entrance?)
+(Add intros for every level?)
+
+Scroll through or Slide show
+(Preferably slideshow type, but depends on difficulty)
+
+When player is done pop up for score or grade as they go?
+
+Basketball court background image?
+
+Directions with intro and play button 
+
+Play button is just a link to the first page, minimal JS required
+
+Score requirement to get to the next difficulty?
+
+80 percent requirement
+
+
+
+
+
+
+
+
+
+
+
+
