@@ -27,6 +27,12 @@ Score requirement to get to the next difficulty?
 
 80 percent requirement
 
+After requirement met opacity for next level button = 1
+
+
+
+
+
 
 
 
