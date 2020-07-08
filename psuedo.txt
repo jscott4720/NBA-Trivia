@@ -29,6 +29,325 @@ Score requirement to get to the next difficulty?
 
 After requirement met opacity for next level button = 1
 
+Question index on each page (js)
+
+Question++ to change question(js)
+
+Class defined as questions (HTML)
+
+4 divs inside each question with 4 answers (HTML)
+
+Each question has a data-* marking correct or incorrect (HTML)
+
+
+///Easy Questions///
+
+1. Who is the NBA's All Time leading scorer?
+
+
+A. Wilt Chamberlain
+B. Michael Jordan
+C. LeBron James
+D. Kareem Abdul-Jabbar
+
+
+
+
+2. Who is the reigning league MVP?(2019-2020 season)
+
+
+A. James Harden
+B. Steph Curry
+C. Giannis Antetokounmpo
+D. Russel Westbrook
+
+
+
+
+3. What year was LeBron James Drafted?
+
+
+A. 2003
+B. 2000
+C. 2004
+D. 1999
+
+
+
+
+4. How many championships did Michael Jordan win?
+
+A. 4
+B. 3
+C. 7
+D. 6
+
+
+
+
+5. Which team won the 2010 NBA Championship?
+
+A. Boston Celtics
+B. Cleveland Cavaliers
+C. Los Angeles Lakers
+D. San Antonio Spurs
+
+
+
+
+
+6. Who was the first player to average a triple double for the entire season?
+
+
+A. Oscar Robinson
+B. Michael Jordan
+C. Russel Westbrook
+D. Wilt Chamberlain
+
+
+
+
+
+7. Who was the first Unanimous League MVP?
+
+A. Michael Jordan
+B. Stephen Curry
+C. LeBron James
+D. Shaquille O'Neal
+
+
+
+
+
+8. What college did LeBron James play for?
+
+
+A. Ohio State
+B. Duke 
+C. UNC
+D. Drafted from High School
+
+
+
+
+9. Which of these players is a point guard?
+
+A. Kobe Bryant 
+B. Klay Thompson
+C. Steph Curry
+D. Larry Bird
+
+
+
+
+
+10. Who was the first pick in the 2019 NBA Draft.
+
+A. Ja Morant
+B. Zion Williamson
+C. Lonzo Ball
+D. RJ Barrett
+
+
+
+
+
+///Medium Questions///
+
+
+
+1. How many championships has Bill Russel won?
+
+A. 1
+B. 6
+C. 8
+D. 11
+
+
+2. What team was the first to Three Peat?
+
+A. Los Angeles Lakers
+B. Boston Celtics 
+C. Chicago Bulls
+D. Miami Heat
+
+
+
+3. Which player scored 8 points in 9 seconds?
+
+A. Reggie Miller
+B. Larry Bird
+C. Tracy McGrady
+D. Kyrie Irving
+
+
+
+4. What number was Michael Jordan drafted?
+
+A. 1st
+B. 2nd
+C. 3rd
+D. 4th
+
+
+
+5. How many MVPs did Larry Bird win
+
+A. 1
+B. 3
+C. 4
+D. 2
+
+
+
+6. Who was the shortest League MVP
+
+A. Allen Iverson
+B. Isiah Thomas
+C. Isaiah Thomas
+D. Spud Webb
+
+
+
+7. How many dunk contests did Michael Jordan win?
+
+A. 1
+B. 2
+C. 3
+D. 4
+
+
+
+8. Which active player has the record for points in a single game
+
+A. Steph Curry
+B. James Harden
+C. Devin Booker 
+D. Kevin Durant 
+
+
+
+
+9. How many times did Michael Jordan retire?
+
+A. 1
+B. 2
+C. 3
+D. 4
+
+
+
+
+
+10. Which NBA team is worth the most money
+
+A. New York Knicks
+B. Los Angeles Lakers
+C. Chicago Bulls
+D. Golden State Warriors
+
+
+
+
+
+
+
+///Hard Questions///
+
+
+
+1. What team did Michael Jordan wear 12 against 
+
+A. New York Knicks
+B. Los Angeles Lakers
+C. Chicago Bulls 
+D. Detroit Pistons
+
+
+
+2. Who was the first player to join the 50/40/90 club?
+
+A. Steve Nash
+B. Larry Bird
+C. Jerry West
+D. Stephen Curry
+
+
+
+3. Which team drafted Andrew Wiggins?
+
+A. Minnesota Timberwolves
+B. Cleveland Cavaliers
+C. Brooklyn Nets
+D. Phoenix Suns
+
+
+4. How many 50 point games did Wilt Chamberlain have during his career?
+
+A. 69
+B. 57
+C. 23
+D. 118
+
+
+
+5. Which franchise has the longest winning streak in NBA history?
+
+A. Miami Heat
+B. Los Angeles Lakers
+C. Golden State Warriors
+D. Chicago Bulls
+
+
+6. Who is the youngest player to ever play in an NBA game?
+
+A. Kobe Bryant
+B. Andrew Bynum
+C. LeBron James 
+D. Dwight Howard
+
+
+7. Which player was Rookie of the Year in 2013?
+
+A. Anthony Davis
+B. Damian Lillard
+C. Bradley Beal
+D. Dion Waiters
+
+
+8. What number was Kobe Bryant drafted?
+
+A. 1st
+B. 8th
+C. 13th
+D. 24th
+
+
+
+9. Who was the 1996 Rookie of the Year?
+
+A. Steve Nash
+B. Ray Allen
+C. Kobe Bryant 
+D. Allen Iverson
+
+
+10. How many teams has Shaquille O'Neal played for?
+
+
+A. 2
+B. 4
+C. 3
+D. 6
+
+
+
+
+
+
+
+
+
 
 
 
