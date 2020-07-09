@@ -2,6 +2,7 @@ console.log("This is the easy level")
 
 let answers = document.querySelectorAll("p")
 let complete = document.querySelector('.complete')
+let separator = document.querySelectorAll(".separator")
 let score = 0 
 let currentQuestion = 0;
 let lastQuestion = 0;
@@ -31,3 +32,7 @@ complete.addEventListener('click', grade)
 function grade(){
     alert(`Your score is ${score}`)
 }
+window.onload = function beginTrivia() {
+    separator[currentQuestion].style.display = "block"
+}
+console.log(separator)
