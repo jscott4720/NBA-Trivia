@@ -3,11 +3,16 @@ console.log("This is the easy level")
 let answers = document.querySelectorAll("p")
 let complete = document.querySelector('.complete')
 let score = 0 
+let currentQuestion = 0;
+let lastQuestion = 0;
+let nextQuestion = 0;
+let questionAnswered = 0;
 
 console.log(answers)
 
 for (i = 0; i < answers.length; i++) {
     let buttons = answers[i]
+    
     buttons.addEventListener("click", beenClicked)
     
 
