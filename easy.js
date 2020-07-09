@@ -15,6 +15,10 @@ for (i = 0; i < answers.length; i++) {
         if (e.target.attributes[0].nodeValue == "Correct") {
             score+=10
         }
+
+        if (score == 100){
+            alert ("you win!")
+        }
     }
 }
 
