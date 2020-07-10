@@ -2,6 +2,8 @@ console.log("This is the medium level")
 
 
 let answers = document.querySelectorAll("p")
+let complete = document.querySelector('.complete')
+let score = 0
 
 console.log(answers)
 
@@ -18,5 +20,12 @@ for (i = 0; i < answers.length; i++) {
         if (score == 100){
             alert ("you win!")
         }
+
+
     }
+}
+
+complete.addEventListener('click', grade)
+function grade(){
+    alert(`Your score is ${score}`)
 }
