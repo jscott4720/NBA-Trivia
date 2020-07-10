@@ -29,13 +29,17 @@ function grade(){
         
     }
     else if (score > 30 || score <= 50 ){
-        popUp.innerText = `You scored ${score}... its `
+        popUp.innerText = `You scored ${score}... its admirable you got this far to be completely honest`
     }
     
     else if (score > 50 || score <= 70) {
-        popUp.innerText = `Your score is ${score}... Try again and you might pass`
+        popUp.innerText = `Your score is ${score}... SOOO close but no cigar`
     }
-    else if (score >= 80) {
-        popUp.innerText = `Your score is ${score}... you've completed the warm up click the medium level to continue`
+    else if (score <= 80) {
+        popUp.innerText = `Your score is ${score}... If I knew how to add applause I would`
+    }
+
+    else if (score <= 100) {
+        popUp.innerText = `Your score is 100, you are the GOAT.`
     }
 }

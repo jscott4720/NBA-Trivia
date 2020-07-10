@@ -41,7 +41,10 @@ function grade(){
     else if (score > 50 || score <= 70) {
         popUp.innerText = `Your score is ${score}... Try again and you might pass`
     }
-    else if (score >= 80) {
+    else if (score <= 80) {
         popUp.innerText = `Your score is ${score}... you must really be a fan. Try the hard level`
+    }
+    else if (score <= 100){
+        popUp.innerText = `Your score is 100... you're hot right now go for broke on the next level`
     }
 }
