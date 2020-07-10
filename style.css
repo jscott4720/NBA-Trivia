@@ -9,6 +9,11 @@ body {
   font-size: 1em;
   font-family: "Muli", sans-serif;
 }
+.directions{
+  width: 300px;
+  top: 50%;
+  left: 50%;
+}
 p {
   cursor: pointer;
   border: 1px solid black;
@@ -60,7 +65,7 @@ p:active{
 .complete {
   cursor: pointer;
   border: 5px solid black;
-  background-color: clear;
+  background-color: white;
   color: black;
   text-align: center;
   width: 100px;
@@ -104,4 +109,6 @@ img {
 .flex {
   display: flex;
   justify-content: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
